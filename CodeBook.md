@@ -14,15 +14,15 @@ subjectId column is numbered sequentially from 1 to 30. ActivityId column has 6 
 
     	1 WALKING
 
-	2 WALKING_UPSTAIRS
+		2 WALKING_UPSTAIRS
 	
-3 WALKING_DOWNSTAIRS
+		3 WALKING_DOWNSTAIRS
 	
-4 SITTING
+		4 SITTING
 
-	5 STANDING
+		5 STANDING
 
-	6 LAYING
+		6 LAYING
 
 The newTidySet data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 
